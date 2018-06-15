@@ -8,5 +8,5 @@ require_once 'core.php';
 $database = new MySQL($dbSettings);
 
 $result = $database->complexQuery(486, 3);
-
+//first comm!
 ?>
