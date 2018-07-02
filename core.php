@@ -9,3 +9,5 @@ function classAutoLoad($className)
 }
 
 spl_autoload_register('classAutoLoad');
+
+666
